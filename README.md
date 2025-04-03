@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0014-longest-common-prefix) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 ## Greedy
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
