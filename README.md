@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sorting
@@ -50,6 +51,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 ## Greedy
