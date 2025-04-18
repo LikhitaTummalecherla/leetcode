@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0316-remove-duplicate-letters) |
