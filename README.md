@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -29,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Dynamic Programming
 |  |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2998-count-symmetric-integers) |
