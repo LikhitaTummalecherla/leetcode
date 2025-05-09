@@ -110,6 +110,7 @@
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [2998-count-symmetric-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +189,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
