@@ -34,6 +34,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -121,6 +122,7 @@
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
