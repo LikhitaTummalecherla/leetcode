@@ -20,6 +20,7 @@
 | [2048-build-array-from-permutation](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -54,6 +55,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1500-count-largest-group) |
+| [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -68,6 +70,7 @@
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -198,6 +201,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
