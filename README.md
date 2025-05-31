@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0682-baseball-game) |
 | [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1095-two-city-scheduling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -89,6 +90,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -107,6 +109,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
