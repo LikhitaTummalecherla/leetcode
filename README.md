@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
+| [0135-candy](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0496-next-greater-element-i) |
@@ -130,6 +131,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
