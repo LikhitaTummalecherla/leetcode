@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
