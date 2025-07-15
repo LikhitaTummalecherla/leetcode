@@ -147,6 +147,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
