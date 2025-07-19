@@ -17,6 +17,7 @@
 | [1095-two-city-scheduling](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1095-two-city-scheduling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1656-count-good-triplets) |
@@ -146,6 +147,7 @@
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -197,6 +199,7 @@
 | [0014-longest-common-prefix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
