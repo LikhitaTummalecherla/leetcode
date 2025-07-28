@@ -25,6 +25,7 @@
 | [2048-build-array-from-permutation](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -271,10 +272,12 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Combinatorics
 |  |
@@ -289,6 +292,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
