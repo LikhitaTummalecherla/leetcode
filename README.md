@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -195,6 +196,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -321,6 +323,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
