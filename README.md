@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0118-pascals-triangle) |
@@ -119,6 +120,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0868-push-dominoes) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
