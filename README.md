@@ -44,6 +44,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -303,6 +304,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -386,6 +388,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
