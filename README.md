@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -192,6 +193,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0416-partition-equal-subset-sum) |
