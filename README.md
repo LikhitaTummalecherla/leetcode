@@ -13,6 +13,7 @@
 | [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0496-next-greater-element-i) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0868-push-dominoes) |
@@ -288,6 +290,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
