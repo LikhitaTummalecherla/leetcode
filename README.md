@@ -55,6 +55,7 @@
 | [2689-rearranging-fruits](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2722-prime-in-diagonal](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -167,6 +168,7 @@
 | [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2722-prime-in-diagonal](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2722-prime-in-diagonal) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -302,6 +304,7 @@
 | [2050-count-good-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2722-prime-in-diagonal](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2998-count-symmetric-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -416,6 +419,7 @@
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2722-prime-in-diagonal](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2722-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
