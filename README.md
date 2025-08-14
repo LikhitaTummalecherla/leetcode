@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -412,6 +414,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2479-meeting-rooms-iii) |
