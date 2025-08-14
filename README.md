@@ -184,6 +184,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
