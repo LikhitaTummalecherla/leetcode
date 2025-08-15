@@ -294,6 +294,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0826-soup-servings) |
@@ -320,6 +321,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
