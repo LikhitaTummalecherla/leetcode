@@ -18,6 +18,7 @@
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0682-baseball-game) |
 | [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -177,6 +178,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -459,6 +461,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2479-meeting-rooms-iii) |
