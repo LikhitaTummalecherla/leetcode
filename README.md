@@ -201,6 +201,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -252,6 +253,7 @@
 | [0867-new-21-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0868-push-dominoes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2262-solving-questions-with-brainpower) |
