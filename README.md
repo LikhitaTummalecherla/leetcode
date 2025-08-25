@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0086-partition-list](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
@@ -501,4 +502,8 @@
 | ------- |
 | [0826-soup-servings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0867-new-21-game) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
