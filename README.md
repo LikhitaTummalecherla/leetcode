@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -180,6 +182,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0498-diagonal-traverse) |
