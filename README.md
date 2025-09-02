@@ -74,6 +74,7 @@
 | [3194-find-words-containing-character](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -144,6 +145,7 @@
 | [2689-rearranging-fruits](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
@@ -355,6 +357,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -394,6 +397,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -535,4 +539,8 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0086-partition-list) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
