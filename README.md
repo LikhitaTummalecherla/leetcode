@@ -365,6 +365,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3830-find-closest-person](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3830-find-closest-person) |
 ## Backtracking
 |  |
 | ------- |
