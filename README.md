@@ -280,6 +280,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -498,12 +499,14 @@
 | [0498-diagonal-traverse](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
