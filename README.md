@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0037-sudoku-solver) |
@@ -158,6 +159,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0189-rotate-array) |
@@ -246,6 +248,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0316-remove-duplicate-letters) |
