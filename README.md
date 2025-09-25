@@ -23,6 +23,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0682-baseball-game) |
 | [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -440,6 +441,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
