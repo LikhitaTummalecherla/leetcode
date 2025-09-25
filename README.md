@@ -165,6 +165,7 @@
 | [0011-container-with-most-water](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0443-string-compression) |
@@ -224,6 +225,7 @@
 | [0014-longest-common-prefix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0443-string-compression) |
