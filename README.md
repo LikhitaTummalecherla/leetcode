@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
@@ -441,6 +442,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0792-binary-search) |
