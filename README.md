@@ -225,6 +225,7 @@
 | [0014-longest-common-prefix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -356,6 +357,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0342-power-of-four) |
@@ -399,6 +401,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -517,6 +520,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2048-build-array-from-permutation) |
