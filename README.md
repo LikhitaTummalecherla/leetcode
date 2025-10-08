@@ -58,6 +58,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -151,6 +152,7 @@
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -174,6 +176,7 @@
 | [0443-string-compression](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0868-push-dominoes) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -466,6 +469,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
