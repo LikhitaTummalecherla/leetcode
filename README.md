@@ -106,6 +106,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -526,6 +527,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Number Theory
 |  |
 | ------- |
@@ -543,6 +545,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Queue
 |  |
 | ------- |
