@@ -352,6 +352,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -362,6 +363,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0101-symmetric-tree) |
 | [0386-lexicographical-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -376,6 +378,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -622,4 +625,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
