@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0101-symmetric-tree) |
 | [0794-swim-in-rising-water](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -352,6 +353,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -361,6 +363,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0101-symmetric-tree) |
 | [0386-lexicographical-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -374,6 +377,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Math
