@@ -109,6 +109,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
 | ------- |
@@ -425,6 +427,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -445,6 +448,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
 | ------- |
@@ -453,6 +457,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -636,4 +641,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
