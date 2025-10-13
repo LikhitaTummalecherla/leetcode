@@ -37,6 +37,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -126,6 +127,7 @@
 | [0940-fruit-into-baskets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1500-count-largest-group](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1500-count-largest-group) |
 | [1612-avoid-flood-in-the-city](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -154,6 +156,7 @@
 | [0368-largest-divisible-subset](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0900-reordered-power-of-2](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1095-two-city-scheduling](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1095-two-city-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -255,6 +258,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
