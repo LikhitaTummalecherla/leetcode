@@ -650,4 +650,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
