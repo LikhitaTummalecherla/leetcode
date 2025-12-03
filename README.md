@@ -101,6 +101,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -152,6 +153,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -447,6 +449,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -664,6 +667,7 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Game Theory
 |  |
 | ------- |
