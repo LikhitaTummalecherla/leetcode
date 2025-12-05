@@ -91,6 +91,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -449,6 +450,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -586,6 +588,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
