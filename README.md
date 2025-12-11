@@ -97,6 +97,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3531-count-covered-buildings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -154,6 +155,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3531-count-covered-buildings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -185,6 +187,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
