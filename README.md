@@ -93,6 +93,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -187,6 +188,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3433-count-mentions-per-user](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -460,6 +462,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -625,6 +628,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3433-count-mentions-per-user](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3790-fruits-into-baskets-ii](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Queue
