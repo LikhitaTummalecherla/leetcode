@@ -31,6 +31,7 @@
 | [0792-binary-search](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-fruit-into-baskets](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -343,6 +344,7 @@
 | [0826-soup-servings](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0868-push-dominoes) |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LikhitaTummalecherla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -551,6 +553,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -627,6 +630,7 @@
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -634,6 +638,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikhitaTummalecherla/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LikhitaTummalecherla/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/LikhitaTummalecherla/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
